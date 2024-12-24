@@ -1,0 +1,66 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "repo": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "path": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "func_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "original_string": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "code": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "code_tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "docstring": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "docstring_tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "sha": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
